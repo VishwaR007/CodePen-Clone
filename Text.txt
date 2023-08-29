@@ -1,0 +1,10 @@
+1) npx create-react-app codepen-clone
+2) npm start
+
+Material UI
+3) npm install @mui/material @emotion/react @emotion/styled    ==> (from the web site meterialUI under installation section.)
+4) npm i @mui/icons-material   ==> (This is for Material UI Icons)
+
+For Code Editor:
+5) npm i react-codemirror2 --legacy-peer-deps
+  ==> --legacy-peer-deps = this is used to install the latest version or fix the installation error internally about the version compatibility.
